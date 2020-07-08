@@ -13,7 +13,7 @@ This repo conatins a partial version of my analysis/reports/dashboards that I've
 
 ### MAPBOX map integration with Tableau
 
-[Mapbox Map Integration. Click to view on Tableau Public](https://public.tableau.com/profile/toufiq#!/vizhome/CHL_ACC/Dashboard1)
+[Mapbox Map Integration. Click to view on Tableau Public](https://public.tableau.com/profile/toufiq#!/vizhome/CHL_ACC/Dashboard)
 
 ### Scattar Plot to show 4 measures in 2D plane using x-axis, y-axis, size and color.
 
