@@ -1,5 +1,5 @@
 # TableauViz
-This repo conatins my analysis/reports/dashboard I've done in Tableau Desktop.
+This repo conatins my analysis/reports/dashboard I've done using Tableau Desktop. Some of the visualizations are in pdf format instead of Tableau public workbook. 
 
 ### Likert Chart for survey results
 
