@@ -1,5 +1,6 @@
 # TableauViz
-This repo conatins my analysis/reports/dashboard I've done using Tableau Desktop. Some of the visualizations are in pdf format instead of Tableau public workbook.
+This repo conatins a partial version of my analysis/reports/dashboards that I've done/developed using Tableau Desktop. Some of the visualizations are in pdf format instead of Tableau public workbook.
+
 ***Data supporting the viz has been modified, undersampled, oversampled from the actual data for the purpose of sharing at public platform***
 
 ### Rail Track Faults Visualization
